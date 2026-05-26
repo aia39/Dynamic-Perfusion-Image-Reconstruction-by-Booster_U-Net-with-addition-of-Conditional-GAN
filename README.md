@@ -10,4 +10,4 @@
 
 ## Acknowledgement
 The code base was taken from the repository: https://github.com/gadluru/Deep-learning-reconstruction-Radial-SMS-perfusion
-
+CGAN Idea: https://arxiv.org/abs/1611.07004
